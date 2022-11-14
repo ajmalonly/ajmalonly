@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajmal Rambocus</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **FRambocus Events Ltd 🎉**
+- 🔭 I’m currently working on **Events Ltd 🎉**
 
-- 🌱 I’m currently learning **Angular and Python for AI**
+- 🌱 I’m currently learning **C# and Unity 🎮**
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
