@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajmal Rambocus</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **Skinworks 🫧**
+- 🔭 I’m currently working on **Salomon 3D Media 🫧**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Vue JS**
 
 - 👯 I’m looking to collaborate on **Innovative projects**
 
