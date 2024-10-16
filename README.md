@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajmal Rambocus</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **Salomon 3D Media 🫧**
+- 🔭 I’m currently working on **L'atelier de Thierry 🫧**
 
 - 🌱 I’m currently learning **Vue JS**
 
