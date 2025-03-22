@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ajmal Rambocus</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **L'atelier 🫧**
+- 🔭 I’m currently working on **GF Properties Web App 🏠**
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Innovative projects**
+- 👯 I’m looking to collaborate on **Web projects & Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajmalonly](https://github.com/ajmalonly)
+- 👨‍💻 All of my projects are available at https://ajmalonly-consulting.onrender.com/
 
-- 💬 Ask me about **Heroku, Ruby**
+- 💬 Ask me about **Heroku, Ruby on Rails, JavaScript, Python, Data Analytics**
 
 - 📫 How to reach me **ajmalrambocus@gmail.com**
 
