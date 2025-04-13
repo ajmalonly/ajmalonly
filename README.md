@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajmal Rambocus</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **GF Properties Web App 🏠**
+- 🔭 I’m currently working on **GF Properties App 🏠**
 
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Web projects & Data Analytics**
 
-- 👨‍💻 All of my projects are available at https://ajmalonly-consulting.onrender.com/
+- 👨‍💻 All of my projects are available at https://ajmalonly.com/
 
 - 💬 Ask me about **Heroku, Ruby on Rails, JavaScript, Python, Data Analytics**
 
